@@ -1,0 +1,25 @@
+{
+  "expressions": {
+    "eyebrow_raise": {
+      "action": "play_local",
+      "media_path": "/home/roman/face_music/song3.mp3",
+      "description": "Eyebrow raise triggers default music"
+    },
+    "smile": {
+      "action": "play_youtube",
+      "media_path": "https://www.youtube.com/watch?v=DDQCO3Vykts",
+      "description": "Smile triggers YouTube video"
+    },
+    "wink": {
+      "action": "play_local",
+      "media_path": "/home/roman/face_music/song3.mp3",
+      "description": "Wink - no media assigned"
+    }
+  },
+  "settings": {
+    "fps": 30,
+    "detection_confidence": 0.7,
+    "expression_threshold": 0.6,
+    "camera_index": 0
+  }
+}
