@@ -1,5 +1,7 @@
 # FacePlay Trigger
 
+<img src="facemusic.png" alt="My face" width="600">
+
 > Uses your webcam to recognize facial expressions and instantly trigger music or video playback. Whether it's a smirk, eyebrow raise, or "Zoolander face," FacePlay lets your face control your vibe.
 
 ## Features
